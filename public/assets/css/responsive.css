@@ -1,0 +1,214 @@
+@media(max-width:991px) {
+    .min-nav {
+        background: #ffffff66;
+        right: -15px;
+        top: 75px;
+        width: 200px;
+        z-index: 99;
+        padding: 12px;
+        position: absolute;
+        border-radius: 5px;
+
+    }
+
+    .nav-link {
+        color: #252525 !important;
+    }
+
+    .nav-item a {
+        font-size: 13px;
+    }
+}
+
+@media(max-width:576px) {
+    .min-nav {
+        background: #3a47ba !important;
+    }
+
+    .enquiry_form img {
+        width: 60px;
+    }
+
+    .company_space {
+        padding: 30px;
+    }
+
+    .enquiry_form h4 {
+        font-size: 18px;
+    }
+
+    .enquiry_form p {
+        font-size: 13px !important;
+    }
+
+    /* .dropdown-menu {
+    background: #ffffff66 !important;
+  } */
+}
+
+/*  */
+@media(max-width:1200px) {
+    .min-nav-2 {
+        background: #ffffff66;
+        right: -15px;
+        top: 75px;
+        width: 225px;
+        z-index: 99;
+        padding: 12px;
+        position: absolute;
+        border-radius: 5px;
+
+    }
+}
+
+
+@media(max-width:576px) {
+    .min-nav-2 {
+        background: #3a47ba !important;
+    }
+
+    .ban_con h1 {
+        font-size: 25px;
+    }
+
+    .bg_content h2 {
+        font-size: 25px;
+    }
+
+    .footer_two h2 {
+        font-size: 20px;
+    }
+
+    .about_us h1 {
+        font-size: 20px;
+    }
+
+    .count_icon {
+        width: 100px;
+        height: 100px;
+    }
+
+    .count_icon img {
+        width: 60px;
+    }
+
+    .ind_foot {
+        margin-left: -15px;
+    }
+
+    .page_banner_caption h1 {
+        font-size: 30px;
+    }
+
+    .vis_head h2 {
+        font-size: 20px;
+    }
+
+    .vis_head h3 {
+        font-size: 15px;
+    }
+
+    .vis_head span {
+        font-size: 14px;
+    }
+
+    .quick_section .quick_enq_con p {
+        font-size: 13px;
+        text-align: center;
+    }
+
+    .nav_contact {
+        margin-top: -14px;
+        margin-bottom: 10px;
+    }
+
+    .nav_contact img {
+        width: 30px !important;
+    }
+}
+
+
+@media(max-width:767px) {
+    .bg_content {
+        margin-top: -250px;
+    }
+
+    p {
+        font-size: 13px;
+    }
+
+    .navbar-light img {
+        width: 120px;
+        border-radius: 2px;
+    }
+}
+
+@media(max-width:480px) {
+    .bg_content {
+        margin-top: -200px;
+    }
+}
+
+/* electrical banner */
+/* Animations */
+
+@media(max-width:612px) {
+
+    .fnc-slide__action-btn {
+        position: relative;
+        margin-left: 100px;
+        padding: 5px 15px;
+        font-size: 20px;
+        font-family: "f3" !important;
+        line-height: 1;
+        color: transparent;
+        border: none;
+        background: transparent;
+        cursor: pointer;
+        text-align: center;
+        outline: none;
+    }
+}
+
+@media(max-width:446px) {
+    .fnc-slide__content {
+        z-index: 2;
+        position: absolute;
+        left: 15%;
+        top: 15%;
+    }
+
+    .fnc-slide__heading h1 {
+        font-size: 20px;
+    }
+
+    .fnc-slide__heading p {
+        font-size: 16px;
+    }
+
+    .fnc-slide__action-btn {
+        position: relative;
+        margin-left: 50px;
+        padding: 5px 15px;
+        font-size: 20px;
+        font-family: "f3" !important;
+        line-height: 1;
+        color: transparent;
+        border: none;
+        background: transparent;
+        cursor: pointer;
+        text-align: center;
+        outline: none;
+    }
+}
+
+@media(max-width:580px) {
+    .fnc-slide__content {
+        z-index: 2;
+        position: absolute;
+        left: 18%;
+        top: 18%;
+    }
+}
+
+/* Media Queries */
